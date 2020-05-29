@@ -1,2 +1,2 @@
 "# crytopalsolutions" 
-check solutions for <set>_<problem>.py
+check solutions for set_problem.py
